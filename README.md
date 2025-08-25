@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Diya Sharma</h1>
-<h3 align="center">An aspiring Software Developer | Passionate about Web & Mobile Development</h3>
+<h3 align="center">An aspiring Software Developer | Passionate about Website Development</h3>
 
 ---
 
